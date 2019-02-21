@@ -1,2 +1,3 @@
 # compass
-is a device orientation demo
+
+> is a device orientation demo

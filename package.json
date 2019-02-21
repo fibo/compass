@@ -1,0 +1,29 @@
+{
+  "name": "compass",
+  "version": "-.0.0",
+  "private": true,
+  "description": "is a device orientation demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibo/compass.git"
+  },
+  "keywords": [
+    "geolocation",
+    "mobile",
+    "device",
+    "orientation"
+  ],
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibo/compass/issues"
+  },
+  "homepage": "http://g14n.info/compass"
+}

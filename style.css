@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Courier;
+  font-size: 16px;
+}
+
+body {
+  background-color: #333;
+  color: #eee;
+}
+
+label {
+  display: inline-block;
+  width: 71px;
+}
+
+input {
+  background-color: #333;
+  color: #eee;
+  padding: 2px;
+  border-width: 0;
+  font-family: inherit;
+}
+
+.debug-toolbar {
+  display: flex;
+  padding: 4px;
+  flex-direction: column;
+}
+
+.debug-value {
+  flex: 1;
+}
